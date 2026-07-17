@@ -1,0 +1,24 @@
+# ------------------------------------------------------------------
+# GitHub Sponsors
+# ------------------------------------------------------------------
+
+github:
+  - wsl-iq
+
+# ------------------------------------------------------------------
+# Custom Funding Page
+# ------------------------------------------------------------------
+
+custom:
+  - https://github.com/wsl-iq/Pydbg
+
+# ------------------------------------------------------------------
+# Optional Platforms
+# Uncomment and configure if needed.
+# ------------------------------------------------------------------
+
+# patreon: username
+# ko_fi: username
+# buy_me_a_coffee: username
+# liberapay: username
+# open_collective: username

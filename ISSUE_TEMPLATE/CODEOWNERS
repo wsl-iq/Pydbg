@@ -1,0 +1,25 @@
+# ------------------------------------------------------------------
+# Pydbg Code Owners
+# ------------------------------------------------------------------
+
+# Default owner
+* @wsl-iq
+
+# Documentation
+README.md @wsl-iq
+/docs/ @wsl-iq
+
+# Source code
+pydbg/ @wsl-iq
+*.py @wsl-iq
+
+# GitHub configuration
+.github/ @wsl-iq
+
+# Packaging
+setup.py @wsl-iq
+pyproject.toml @wsl-iq
+requirements.txt @wsl-iq
+
+# License
+LICENSE @wsl-iq

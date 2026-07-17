@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Pydbg Documentation
+    url: https://github.com/wsl-iq/Pydbg/wiki
+    about: Read the official documentation.
+
+  - name: Questions & Discussions
+    url: https://github.com/wsl-iq/Pydbg/discussions
+    about: Ask questions and discuss ideas.
